@@ -1,0 +1,15 @@
+{
+  "name": "@m-cli/play-ground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "m": "m"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@m-cli/m-cli": "workspace:^"
+  }
+}
