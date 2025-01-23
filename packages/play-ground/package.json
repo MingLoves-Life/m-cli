@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@m-cli/m-cli": "workspace:^"
+    "@m-cli/m-cli": "workspace:^",
+    "test-cli": "workspace:^"
   }
 }
